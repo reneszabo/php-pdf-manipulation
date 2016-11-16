@@ -1,0 +1,15 @@
+{
+  "name": "rene/webd304",
+  "authors": [
+    {
+      "name": "Rene Ramirez",
+      "email": "rene.ramirez@4pixels.co"
+    }
+  ],
+  "require": {
+    "dompdf/dompdf": "^0.7.0"
+  },
+  "autoload": {
+    "psr-4": {"Humber\\": "src/"}
+  }
+}
